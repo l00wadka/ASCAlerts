@@ -16,7 +16,7 @@ Bot Token
 
 ## Installation
 
-1. Install Python 3.8+
+1. Install Python 3.11
 2. Clone this repository
 3. Install dependencies:
 pip install -r requirements.txt

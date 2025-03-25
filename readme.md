@@ -20,7 +20,7 @@ Bot Token
 2. Clone this repository
 3. Install dependencies:
 pip install -r requirements.txt
-4. Configure `config.py` with your details (API-KEY, BOT TOKEN)
+4. Configure `config.py` with your details (API-KEY, BOT TOKEN, USER_ID)
 
 ## Running the Bot
 

@@ -14,13 +14,19 @@ Bot Token
 3. Name the bot and copy his token and paste to config.py ![alt text](image-1.png)
 4. Head to your created bot and hit /start
 
+Traits
+1. All traits stored in traits.json
+2. Input "Value" to config to get filtered notifications
+3. EG - if you want to get notifications with Gojo hair and Schooler frog - input "Sato" and "Frog"
+4. By default you won't get filtered notifications - every listed will shown up
+
 ## Installation
 
 1. Install Python 3.11
 2. Clone this repository
 3. Install dependencies:
 pip install -r requirements.txt
-4. Configure `config.py` with your details (API-KEY, BOT TOKEN, USER_ID)
+4. Configure `config.py` with your details (API-KEY, BOT TOKEN, USER_ID, traits)
 
 ## Running the Bot
 

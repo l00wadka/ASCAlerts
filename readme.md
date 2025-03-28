@@ -5,15 +5,16 @@ This bot provides notifications for a ASC collection on Rarible.
 # Dependences:
 API KEY
 1. https://api.rarible.org/dashboard/api-keys - visit the link
-2. Click on Login & complete registration ![alt text](image.png)
-3. Create MAINNET API KEY - Copy it & Paste to config.py![alt text](image-2.png)
-
+2. Click on Login & complete registration 
+3. Create MAINNET API KEY - Copy it & Paste to config.py
+![alt text](image.png)
+![alt text](image-2.png)
 Bot Token
 1. Head to @BotFather in telegram
 2. Hit Start and type /newbot
-3. Name the bot and copy his token and paste to config.py ![alt text](image-1.png)
+3. Name the bot and copy his token and paste to config.py 
 4. Head to your created bot and hit /start
-
+![alt text](image-1.png)
 Traits
 1. All traits stored in traits.json
 2. Input "Value" to config to get filtered notifications

@@ -3,7 +3,7 @@
 This bot provides notifications for a ASC collection on Rarible.
 
 # Dependences:
-API KEY
+## API KEY
 1. https://api.rarible.org/dashboard/api-keys - visit the link
 2. Click on Login & complete registration 
 3. Create MAINNET API KEY - Copy it & Paste to config.py
@@ -11,7 +11,7 @@ API KEY
 ![alt text](image.png)
 ![alt text](image-2.png)
 
-# Bot Token
+## Bot Token
 1. Head to @BotFather in telegram
 2. Hit Start and type /newbot
 3. Name the bot and copy his token and paste to config.py 
@@ -19,7 +19,7 @@ API KEY
    
 ![alt text](image-1.png)
 
-# Traits
+## Traits
 1. All traits stored in traits.json
 2. Input "Value" to config to get filtered notifications
 3. EG - if you want to get notifications with Gojo hair and Schooler frog - input "Sato" and "Frog"
@@ -33,6 +33,6 @@ API KEY
 pip install -r requirements.txt
 4. Configure `config.py` with your details (API-KEY, BOT TOKEN, USER_ID, traits)
 
-## Running the Bot
+# Running the Bot
 Start the bot with: python main.py
 

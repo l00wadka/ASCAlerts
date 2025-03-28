@@ -1,4 +1,4 @@
-# Alert Bot
+![image](https://github.com/user-attachments/assets/036ce891-3c14-4c9a-b8eb-48b8455d3193)# Alert Bot
 
 This bot provides notifications for a ASC collection on Rarible.
 
@@ -19,6 +19,7 @@ Traits
 2. Input "Value" to config to get filtered notifications
 3. EG - if you want to get notifications with Gojo hair and Schooler frog - input "Sato" and "Frog"
 4. By default you won't get filtered notifications - every listed will shown up
+![image](https://github.com/user-attachments/assets/ef529dc4-4987-4299-88d5-e94a2425ee18)
 
 ## Installation
 
